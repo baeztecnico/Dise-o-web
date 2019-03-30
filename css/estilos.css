@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h3{
+    color: black;
+}
+div#principal{
+    margin: auto;
+    margin-top: 50px;
+    width: 960px;
+    height: 800px;
+    background-color: lightslategray
+}
+div#slider{
+    position: relative;
+    top: 100px;
+   width: 960px;
+    height: 250px;
+    background-color: teal
+}
+div#logo{
+ float:right;
+ width: 150px;
+ height: 200px;
+ background-color: rgb(110, 137, 224)
+}
+div#encabezado{
+    float:left;
+    width: 800px;
+    height: 200px;
+    background-color: rgb(110, 137, 224)
+   }
+   div#texto{
+    position: relative;
+    top: 200px;
+    left: 50px;
+   width: 450px;
+    height: 250px;
+    background-color: yellow
+}
+
+div#video{
+    position: relative;
+    top: -50px;
+    left: 550px;
+   width: 380px;
+    height: 250px;
+    background-color: seagreen
+}
