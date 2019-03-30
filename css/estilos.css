@@ -48,3 +48,11 @@ div#video{
     height: 250px;
     background-color: seagreen
 }
+
+div#piePage{
+    position: relative;
+    top: 10px;
+    width: 960px;
+    height: 60px;
+    background-color: crimson
+   }
