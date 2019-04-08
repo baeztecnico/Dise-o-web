@@ -10,52 +10,51 @@ div#principal{
     margin-top: 50px;
     width: 960px;
     height: 800px;
-    background-color: lightslategray
-}
+    background-color: #f9f9f9}
 div#slider{
     position: relative;
-    top: 120px;
-    left: 50px;
+    top: 140px;
+    left: 100px;
    width: 850px;
-    height: 250px;
-    background-color: teal
-}
+    height: 220px;
+    background-color:#fbfbfb}
 div#logo{
+  position: relative;
+  top: 0px;
+  left: -250px;
  float:right;
  width: 150px;
  height: 100px;
- background-color: rgb(110, 137, 224)
+
 }
 div#encabezado{
     float:left;
-    width: 800px;
+    width: 550px;
     height: 50px;
-    background-color: rgb(110, 137, 224)
    }
    div#texto{
     position: relative;
-    top: 200px;
+    top: 230px;
     left: 50px;
    width: 450px;
     height: 250px;
-    background-color: yellow
+    background-color: rgb(238, 238, 198)
 }
 
 div#video{
     position: relative;
-    top: -50px;
+    top: -20px;
     left: 550px;
    width: 380px;
     height: 250px;
-    background-color: seagreen
-}
+  }
 
 div#piePage{
     position: relative;
     top: 10px;
     width: 960px;
     height: 60px;
-    background-color: crimson
+    background-color: whitesmoke
    }
 
    ul {
