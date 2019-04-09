@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2019 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="facebook" unicode="&#xe800;" d="M0-150l0 1000 1000 0 0-1000-1000 0z m471 469l92 0 0-352 132 0 0 352 129 0 6 127-135 0 0 94q0 31 12 43t41 13l80 0 2 117q-59 6-88 6l-23 0q-31 0-57-10-99-39-99-154l0-109-92 0 0-127z" horiz-adv-x="1000" />
+
+<glyph glyph-name="twitter" unicode="&#xe801;" d="M0 26q162-19 305 88-67-2-117 39t-77 105q18-3 43-1 34 1 49 5-99 34-139 108-23 51-23 103 57-29 92-27-80 68-90 146-6 63 25 135 114-125 239-180 93-39 185-39-12 94 26 159 45 70 128 93 55 14 106-3t86-55q60 6 133 49-30-86-92-118 62 10 121 36-10-20-37-53t-68-57q1-10 1-17 4-110-42-233-81-201-243-302-160-90-382-69-141 16-229 88z" horiz-adv-x="1000" />
+
+<glyph glyph-name="linkedin" unicode="&#xe802;" d="M0-150l0 1000 1000 0 0-1000-1000 0z m164 729q2-34 25-54t53-23l2 0q35 2 59 24t23 53q-2 33-25 53t-55 21q-35 0-58-22t-24-52z m8-569l144 0 0 434-144 0 0-434z m225 0l144 0 0 242q0 24 4 36 27 52 74 52 72-2 72-97l0-233 145 0 0 248q-2 98-47 149-47 47-119 49-53-2-86-26-21-15-43-47l0 61-144 0q1-18 1-70 0-90-1-364z" horiz-adv-x="1000" />
+
+<glyph glyph-name="youtube" unicode="&#xe803;" d="M0-29l0 758 1000 0 0-758-1000 0z m355 157l350 220-350 219 0-439z" horiz-adv-x="1000" />
+
+<glyph glyph-name="warehouse" unicode="&#xe840;" d="M475 700l-475-275 100 0 0-400c0-25 22-50 50-50l150 0 0 250c0 28 22 50 50 50l350 0c28 0 49-22 50-50l0-250 150 0c28 0 50 22 50 50l0 400 100 0-475 275c-21 12-42 25-50 25-8 0-28-12-50-25z m-125-475l0-50 350 0 0 50z m0-100l0-50 350 0 0 50z m0-100l0-50 350 0 0 50z" horiz-adv-x="1050" />
+
+<glyph glyph-name="menu" unicode="&#xf008;" d="M68 62q0-30 21-51t51-21h793q30 0 51 21t21 51-21 51-51 21h-793q-29 0-51-21t-21-51z m0 288q0-30 21-51t51-21h793q30 0 51 21t21 51-21 51-51 21h-793q-29 0-51-21t-21-51z m0 288q0-30 21-51t51-21h793q30 0 51 21t21 51-21 51-51 21h-793q-29 0-51-21t-21-51z" horiz-adv-x="1073.2" />
+</font>
+</defs>
+</svg>
